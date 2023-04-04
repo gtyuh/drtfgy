@@ -1,10 +1,10 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=e57b3f74-b505-458c-95d6-5ca7d57acfe2
+export UUID=ed65ab63a-ef0d-46bc-b06e-33b4bcf1c477
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=gameshedge.com
+export ProxySite=arsenalfclatestnews.com
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
